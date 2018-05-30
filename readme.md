@@ -1,15 +1,21 @@
-# Banco del País - Un banco 100% digital
+# Banco para millennials
+
+Enfocados en los millennials proponemos una aplicación móvil enfocada en la omnicanalidad. Que nuestros usuarios tengan total libertad al realizar sus operaciones de manera rápida y sencilla con la misma seguridad que tienen al acercarse a una ventanilla.
+
+![banco](https://user-images.githubusercontent.com/32306054/40709805-a110137c-63bc-11e8-8bfd-7c085e35a0a8.png)
+
+
+## Desarollado para
+[Laboratoria](http://www.laboratoria.la/)
+
+
+![image](https://user-images.githubusercontent.com/32310691/37179903-49856ed4-22f5-11e8-93e5-2b170669b14d.png)
 
 El banco del país actualmente se encuentra por un proceso de transformación digital. Como parte de este proceso, han implementado el área de innovación para liderar la migración de las principales transacciones financieras, a una plataforma digital.
 
 ## Idea de Negocio
 
 Enfocados en los millennials proponemos una aplicación móvil enfocada en la omnicanalidad. Que nuestros usuarios tengan total libertad al realizar sus operaciones de manera rápida y sencilla con la misma seguridad que tienen al acercarse a una  ventanilla.
-
-
-![image](https://user-images.githubusercontent.com/32310691/37179903-49856ed4-22f5-11e8-93e5-2b170669b14d.png)
-
-
 
 
 ## Research
