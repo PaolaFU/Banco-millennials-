@@ -84,8 +84,6 @@ El objetivo de esta primera reunión es conocer a los principales stakeholders y
 
 ## Organización de la investigación en Trello
 
-![](assets/img/trello.jpg)
-
 Para mayor información de la organización revisar Trello: https://trello.com/b/aEIfjlCk/banco-del-pa%C3%ADs
 
 ## RECOPILACIÓN Y ANÁLISIS DE DATOS
